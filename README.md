@@ -6,3 +6,4 @@ A new Flutter project.
 
 This is a quiz app developed using Flutter using various features like creating model class for storing and accessing data through out the app, using alert package and much more.
 
+![Screenshot](https://github.com/MokshakKetanDagli/QuizApp/blob/master/assets/screenshot/ScreenShot.png)
